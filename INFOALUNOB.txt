@@ -1,0 +1,7 @@
+20191000si teste teste_de_santana 16092000 teste@gmail.com 029_99999_9999 2 0 0 0 0 58 2
+20191001si teste teste1_de_santana1 13022000 teste1@gmail.com 099_99999_9999 2 0 0 0 0 68 2
+20191002si jani Jani_de_nao_sei_de_que 13120001 jani@gmail.com 028_99970_7070 2 0 0 0 0 45 2
+20191638si nov nov_nov 12312312 nov@gmail.com 028_99970_7070 2 0 0 0 0 45 2
+20191897mt 123456 Lauana 32051999 laulau@gmail.com 028_5645_8765 2 0 0 0 0 34 2
+20191158mt 123 Joradinho 29052000 iuhi@gmail.com 435_34543_4355 1 0 0 0 0 54 2
+
